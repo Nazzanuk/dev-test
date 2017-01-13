@@ -29,4 +29,3 @@ You can display the results as you see fit, be it a properly formatted JSON with
 
 *   Using a build tool to build the code and fetch dependencies.
 *   Use a test runner to run the tests.
-*   Create a deployable artifact or deploy within a container.
