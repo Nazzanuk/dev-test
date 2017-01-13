@@ -5,7 +5,7 @@ This test is designed to provide a real-world scenario for you to autonomously c
 You are to complete as much as you see fit to delight us. 
 Please bare in mind this should be **production-ready code**.
 
-**You are expected to spend around 2-4 hours on this test. This should give you enough time to come with a good, working solution.**
+**You are expected to spend around 2-4 hours on this test. This should give you enough time to come with a good, working solution, but you can take as much time as you like.**
 
 ## Requirements
 
