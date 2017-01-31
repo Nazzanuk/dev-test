@@ -3,13 +3,13 @@
 This test is designed to provide a real-world scenario for you to autonomously complete to the best of your ability.
 
 You are to complete as much as you see fit to delight us. 
-Please bare in mind this should be **production-ready code**.
+Please bare in mind this should be production-ready code.
 
-**You are expected to spend around 2-4 hours on this test. This should give you enough time to come with a good, working solution, but you can take as much time as you like.**
+**You may take as much time as you deem necessary on this test.**
 
 ## Requirements
 
-You will need to build a web application or API that integrates with the [Foursquare API](https://developer.foursquare.com/)
+You will need to build a web site or app that integrates with the [Foursquare API](https://developer.foursquare.com/)
 and allows you to search for a place by name and return the **recommended or popular** venues near that location.
 
 You can display the results as you see fit, be it a properly formatted JSON with correct data structures or a web app.
